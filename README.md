@@ -1,8 +1,6 @@
 # Database_Design_and_Implementation_using_DBAPI-Psycopg2-
-## CIT-223-018/2021 Anderson Macharia Kinyua
 
 ## Documentation
-
 
 This application is a basic implementation of a database before being uploaded to a server such as oracle. 
 
